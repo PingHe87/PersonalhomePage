@@ -110,6 +110,8 @@ hr {
     float: left;
     margin-right: 30px;
     margin-left: 100px;
+        padding-bottom: 300px;
+    padding-top: 20px;
 }
 
 .skill2 {
@@ -117,7 +119,7 @@ hr {
     float: right;
     margin-left: 30px;
     margin-right: 100px;
-    padding-bottom: 20px;
+    padding-bottom: 300px;
     padding-top: 20px;
 }
 
