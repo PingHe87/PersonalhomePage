@@ -1,0 +1,164 @@
+body {
+    background-color: #F8FAE5;
+    text-align: center;
+    color: #76453B;
+}
+
+.top-container {
+    height: 100%;
+    width: 100%;
+    background-color: #F8FAE5;
+    font-family: 'Noto Sans Display', sans-serif;
+}
+
+.middle-container {
+    margin: 100px 0;
+    font-family: 'Noto Sans Display', sans-serif;
+    line-height: 40px;
+    text-align: center;
+}
+
+.bottom-container {
+    margin: 100px 0 0 0;
+    text-align: center;
+    background-color: #43766C;
+    padding: 50px 0 20px;
+}
+
+a {
+    color: #ADC4CE;
+    font-family: 'Noto Sans Display', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: wheat;
+}
+
+h1 {
+    font-size: 360%;
+    /* 16px = 100% = 1em */
+    margin: 10% auto 0 auto;
+    color: #43766C;
+    font-family: 'Satisfy', cursive;
+
+}
+
+h2 {
+    font-size: 2.5rem;
+    color: #43766C;
+    font-weight: bolder;
+    padding-bottom: 10px;
+}
+
+h3 {
+    font-size: 1.5rem;
+    color: #B19470;
+}
+
+p {
+    font-size: 1.2rem;
+    font-weight: bolder;
+    line-height: 2;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    color: #43766C;
+    border-width: 8px;
+    width: 5%;
+    clear: both;
+    margin: 100px auto;
+}
+
+.resume {
+    color: #43766C;
+}
+
+.btn {
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Noto Sans Display', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    background: #43766C;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background: #B19470;
+    text-decoration: none;
+}
+
+.contact-message {
+    width: 40%;
+    margin: 40px auto 60px auto;
+}
+
+.intro {
+    width: 30%;
+    margin: auto;
+    line-height: 2;
+}
+
+.skill1 {
+    width: 12%;
+    float: left;
+    margin-right: 30px;
+    margin-left: 100px;
+}
+
+.skill2 {
+    width: 12%;
+    float: right;
+    margin-left: 30px;
+    margin-right: 100px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.cloud-top {
+    position: absolute;
+    right: 10%;
+    top: 10%;
+    width: 15%;
+}
+
+.cloud-bottom {
+    position: absolute;
+    top: 40%;
+    left: 10%;
+    width: 18%;
+}
+
+.footer {
+    color: #ADC4CE;
+    font-size: 0.8rem;
+    padding: 10px 0;
+}
+
+.photoOfMe {
+    align-items: center;
+    width: 200px;
+    height: 200px;
+}
+
+.mountain {
+    width: 100%;
+}
+
+.skill-row1 {
+    width: 100%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+.skill-row2 {
+    width: 100%;
+    margin: 100px auto 100px auto;
+    text-align: right;
+}
